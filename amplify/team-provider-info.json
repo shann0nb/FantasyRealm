@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-boeschdialogs-dev-92741-authRole",
+            "UnauthRoleArn": "arn:aws:iam::963982849488:role/amplify-boeschdialogs-dev-92741-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::963982849488:role/amplify-boeschdialogs-dev-92741-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-boeschdialogs-dev-92741-deployment",
+            "UnauthRoleName": "amplify-boeschdialogs-dev-92741-unauthRole",
+            "StackName": "amplify-boeschdialogs-dev-92741",
+            "StackId": "arn:aws:cloudformation:us-east-1:963982849488:stack/amplify-boeschdialogs-dev-92741/82a26b90-946d-11ea-abea-1220c9cd2399",
+            "AmplifyAppId": "d1prisruwdgxve"
+        },
+        "categories": {
+            "auth": {
+                "boeschdialogsc9d6d206": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1prisruwdgxve",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}

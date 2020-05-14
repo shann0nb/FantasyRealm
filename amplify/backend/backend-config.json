@@ -1,0 +1,24 @@
+{
+    "auth": {
+        "boeschdialogsc9d6d206": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": [],
+            "customAuth": false
+        }
+    },
+    "predictions": {
+        "speechGenerator40bba4f0": {
+            "providerPlugin": "awscloudformation",
+            "service": "Polly",
+            "convertType": "speechGenerator"
+        }
+    },
+    "hosting": {
+        "amplifyhosting": {
+            "service": "amplifyhosting",
+            "providerPlugin": "awscloudformation",
+            "type": "manual"
+        }
+    }
+}
